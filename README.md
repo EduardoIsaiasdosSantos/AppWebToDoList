@@ -1,2 +1,2 @@
-# AppWebToDoList
-esse é um projeto de objetivo educacional.
+## projeto AppWebToDoList
+## Plataforma para fazer o codigo: Visual studio
